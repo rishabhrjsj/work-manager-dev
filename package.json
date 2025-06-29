@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "mongoose": "^8.16.0"
+    "axios": "^1.10.0",
+    "bcrypt": "^6.0.0",
+    "mongoose": "^8.16.0",
+    "react-toastify": "^11.0.5"
   }
 }
